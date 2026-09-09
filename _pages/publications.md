@@ -18,16 +18,16 @@ Selected workflow figures are reproduced from the linked open-access articles.
 
 * **Can Luo**†, Zimeng Jamie Zhou†, Yichen Henry Liu & Xin Maizie Zhou. *FocalSV: target region-based structural variant assembly and refinement using single-molecule long read sequencing data.* **[Genome Research](https://genome.cshlp.org/content/35/10/2252)**, 2025.
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.25rem; margin: 1.5rem 0;">
-  <a href="https://link.springer.com/article/10.1186/s12864-025-11398-z" style="flex: 0 0 180px;"><img src="/images/publications/regionindel-figure-1.png" alt="RegionIndel workflow from linked reads to phased structural variant calls" style="width: 180px; max-height: 230px; object-fit: contain; border: 1px solid #e5e5e5;"></a>
-  <div><strong>Can Luo</strong>, Brock A. Peters &amp; Xin Maizie Zhou. <em>Large indel detection in region-based phased diploid assemblies from linked-reads.</em> <strong><a href="https://link.springer.com/article/10.1186/s12864-025-11398-z">BMC Genomics</a></strong>, 2025.<br><small>Figure 1: RegionIndel workflow.</small></div>
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin: 1.75rem 0 2.5rem;">
+  <a href="https://link.springer.com/article/10.1186/s12864-025-11398-z" style="flex: 0 0 260px;"><img src="/images/publications/regionindel-figure-1.png" alt="RegionIndel workflow from linked reads to phased structural variant calls" style="display: block; width: 260px; max-height: 270px; object-fit: contain; object-position: left top; border: 1px solid #e5e5e5;"></a>
+  <ul style="flex: 1 1 350px; margin: 0; padding-left: 1.25rem;"><li><strong>Large indel detection in region-based phased diploid assemblies from linked-reads.</strong><br><strong>Can Luo</strong>, Brock A. Peters &amp; Xin Maizie Zhou.<br><em><a href="https://link.springer.com/article/10.1186/s12864-025-11398-z">BMC Genomics</a></em>, 2025.</li></ul>
 </div>
 
 ## 2024
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.25rem; margin: 1.5rem 0;">
-  <a href="https://www.nature.com/articles/s41467-024-51282-0" style="flex: 0 0 180px;"><img src="/images/publications/volcanosv-figure-1.png" alt="VolcanoSV workflow for phased structural variant calling" style="width: 180px; max-height: 230px; object-fit: contain; border: 1px solid #e5e5e5;"></a>
-  <div><strong>Can Luo</strong>†, Yichen Liu† &amp; Xin Maizie Zhou. <em>VolcanoSV enables accurate and robust structural variant calling in diploid genomes from single molecule long read sequencing.</em> <strong><a href="https://www.nature.com/articles/s41467-024-51282-0">Nature Communications</a></strong>, 2024.<br><small>Figure 1: VolcanoSV workflow.</small></div>
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin: 1.75rem 0 2.5rem;">
+  <a href="https://www.nature.com/articles/s41467-024-51282-0" style="flex: 0 0 260px;"><img src="/images/publications/volcanosv-figure-1.png" alt="VolcanoSV workflow for phased structural variant calling" style="display: block; width: 260px; max-height: 270px; object-fit: contain; object-position: left top; border: 1px solid #e5e5e5;"></a>
+  <ul style="flex: 1 1 350px; margin: 0; padding-left: 1.25rem;"><li><strong>VolcanoSV enables accurate and robust structural variant calling in diploid genomes from single molecule long read sequencing.</strong><br><strong>Can Luo</strong>†, Yichen Liu† &amp; Xin Maizie Zhou.<br><em><a href="https://www.nature.com/articles/s41467-024-51282-0">Nature Communications</a></em>, 2024.</li></ul>
 </div>
 
 * Yichen Liu†, **Can Luo**†, Staunton G. Golding, Jacob B. Ioffe & Xin Maizie Zhou. *Tradeoffs in alignment and assembly-based methods for structural variant detection with long-read sequencing data.* **[Nature Communications](https://www.nature.com/articles/s41467-024-46614-z)**, 2024.
