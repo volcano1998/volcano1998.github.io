@@ -25,8 +25,8 @@ I earned a Ph.D. in Biomedical Engineering at Vanderbilt University, advised by 
 
 * Provost's Pathbreaking Discovery Award [2025]
 * Best Paper Award, Vanderbilt School of Engineering [2025]
-* Lai Sulin Award
-* Outstanding Doctoral Student Award
+* [Lai Sulin Scholarship](https://gradschool.vanderbilt.edu/2026/07/08/vanderbilt-graduate-school-announces-fall-2025-endowed-scholarship-recipients/) [2026] — one of two recipients; recognizes excellence in cancer-related research by Vanderbilt Ph.D. students.
+* [Outstanding Doctoral Student Award](https://news.vanderbilt.edu/2026/04/02/1469516/) [2026] — one of three university-wide recipients, selected for exceptional scholarly accomplishment.
 * Vanderbilt Graduate School Travel Grant [2022, 2024]
 * Russell G. Hamilton Scholar at Vanderbilt University [2021–present]
 * University Graduate Fellow at Vanderbilt University [2021–present]

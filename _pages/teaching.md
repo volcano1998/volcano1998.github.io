@@ -13,4 +13,8 @@ author_profile: true
 
 ## Mentoring
 
-I have mentored undergraduate and graduate researchers in theoretical background, computational methods, and practical problem solving. Recent mentees include students in computer science and data science at Vanderbilt University, as well as a high-school researcher from Harpeth Hall.
+I have mentored undergraduate and graduate researchers in theoretical background, computational methods, and practical problem solving. Recent mentees include:
+
+* [Zimeng Jamie Zhou](https://www.linkedin.com/in/zimeng-jamie-zhou/)
+* [Parth Datar](https://www.linkedin.com/in/parth-datar/)
+* [Zheng Wu](https://www.linkedin.com/in/zheng-wuasa/)
