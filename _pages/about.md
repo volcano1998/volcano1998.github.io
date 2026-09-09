@@ -49,5 +49,5 @@ Outside research, I enjoy brush painting, sketching, and paper craft.
 * Provost's Pathbreaking Discovery Award [2025]
 * Best Paper Award, Vanderbilt School of Engineering [2025]
 * Vanderbilt Graduate School Travel Grant [2022, 2024]
-* Russell G. Hamilton Scholar at Vanderbilt University [2021–present]
-* University Graduate Fellow at Vanderbilt University [2021–present]
+* Russell G. Hamilton Scholar at Vanderbilt University [2021–2026]
+* University Graduate Fellow at Vanderbilt University [2021–2026]
