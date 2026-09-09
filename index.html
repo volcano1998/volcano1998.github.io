@@ -3,98 +3,86 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Can Luo — computational genomics researcher.">
+    <meta name="description" content="Can Luo — computational genomics researcher at Vanderbilt University.">
     <title>Can Luo | Computational Genomics</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Mono&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <header class="site-header">
-      <a class="wordmark" href="#top">CL<span>.</span></a>
-      <nav aria-label="Primary navigation">
-        <a href="#about">About</a>
-        <a href="#work">Work</a>
-        <a href="#notes">Notes</a>
-        <a href="#contact">Contact</a>
-      </nav>
+    <header class="topbar">
+      <div class="bar-content">
+        <a class="site-title" href="#about">Can Luo</a>
+        <nav aria-label="Primary navigation">
+          <a href="#about">About</a>
+          <a href="#publications">Publications</a>
+          <a href="#experience">Experience</a>
+          <a href="#awards">Awards</a>
+        </nav>
+      </div>
     </header>
 
-    <main id="top">
-      <section class="hero" aria-labelledby="intro-title">
-        <p class="eyebrow">Hello, I’m</p>
-        <h1 id="intro-title">Can<br><em>Luo.</em></h1>
-        <div class="hero-bottom">
-          <p class="intro">A computational genomics researcher building <strong>methods for more accurate variant detection.</strong></p>
-          <a class="scroll-link" href="#about">Scroll to explore <span aria-hidden="true">↓</span></a>
-        </div>
-      </section>
+    <div class="page">
+      <aside class="profile">
+        <div class="portrait" aria-label="Can Luo initials">CL</div>
+        <h1>Can Luo</h1>
+        <p class="role">PhD Candidate<br>Biomedical Engineering</p>
+        <p class="institution">Vanderbilt University</p>
+        <ul class="profile-links">
+          <li><a href="mailto:can.luo@vanderbilt.edu">✉ can.luo@vanderbilt.edu</a></li>
+          <li><a href="https://github.com/volcano1998">⌘ GitHub</a></li>
+          <li>⌖ Nashville, TN</li>
+        </ul>
+      </aside>
 
-      <section class="section about" id="about">
-        <p class="section-label">01 / About</p>
-        <div class="section-content">
-          <h2>I develop computational tools for understanding complex genomes.</h2>
-          <div class="body-copy">
-            <p>I am a PhD candidate in Biomedical Engineering at Vanderbilt University in the laboratory of Prof. Xin Maizie Zhou. My research focuses on detecting and characterizing genetic variation, especially structural variants and copy-number variation in cancer genomes.</p>
-            <p>I use linked reads, long reads, and single-cell sequencing to develop algorithms that reveal genomic heterogeneity and support more precise diagnosis and treatment.</p>
-            <p>Based in <strong>Nashville, Tennessee</strong>. PhD expected <strong>May 2026</strong>.</p>
+      <main>
+        <section id="about">
+          <h2>About me</h2>
+          <p>I am a PhD candidate in Biomedical Engineering at Vanderbilt University, advised by Prof. Xin Maizie Zhou. I develop computational methods for detecting and characterizing genetic variation in complex genomes.</p>
+          <p>My research focuses on structural variants and copy-number variation in cancer genomics. I leverage linked-read, long-read, and single-cell sequencing data to create algorithms that improve variant detection and reveal tumor heterogeneity.</p>
+          <p>I received an M.S. in Data Science from Vanderbilt University in 2021 and a B.S. in Chemistry from Fudan University in 2019. Outside the lab, I enjoy brush painting, sketching, and paper craft.</p>
+        </section>
+
+        <section id="publications">
+          <h2>Selected publications</h2>
+          <ol class="publications">
+            <li><strong>Can Luo</strong>†, Zimeng Jamie Zhou† &amp; Xin Maizie Zhou. <em>FocalSV: target region-based structural variant assembly and refinement using single-molecule long read sequencing data.</em> <span>Genome Research, 2025.</span></li>
+            <li><strong>Can Luo</strong>, Brock A. Peters &amp; Xin Maizie Zhou. <em>Large indel detection in region-based phased diploid assemblies from linked-reads.</em> <span>BMC Genomics, 2025.</span></li>
+            <li><strong>Can Luo</strong>†, Yichen Liu† &amp; Xin Maizie Zhou. <em>VolcanoSV enables accurate and robust structural variant calling in diploid genomes from single molecule long read sequencing.</em> <span>Nature Communications, 2024.</span></li>
+            <li>Yichen Liu†, <strong>Can Luo</strong>†, Staunton G. Golding, Jacob B. Ioffe &amp; Xin Maizie Zhou. <em>Tradeoffs in alignment and assembly-based methods for structural variant detection with long-read sequencing data.</em> <span>Nature Communications, 2024.</span></li>
+            <li><strong>Can Luo</strong>, Parth A. Datar, Yichen Henry Liu &amp; Xin Maizie Zhou. <em>Haplotype-phasing of long-read HiFi data to enhance structural variant detection through a Skip-Gram model.</em> <span>IEEE BIBM, 2022.</span></li>
+          </ol>
+          <p class="note">† Equal contribution. More publications and preprints can be added here as your work evolves.</p>
+        </section>
+
+        <section id="experience">
+          <h2>Research &amp; teaching</h2>
+          <div class="entry">
+            <h3>Computational Genomics Researcher</h3>
+            <p class="meta">Vanderbilt University · 2021–present</p>
+            <p>Developing methods for structural-variant detection, phased diploid assemblies, and copy-number estimation from long-read, linked-read, and single-cell sequencing data.</p>
           </div>
-        </div>
-      </section>
+          <div class="entry">
+            <h3>Teaching Assistant</h3>
+            <p class="meta">Vanderbilt University · 2021–present</p>
+            <p>Teaching assistant for Big Data Scaling, Design BME Engineering Systems I &amp; II, and Data Science Rights &amp; Responsibility.</p>
+          </div>
+        </section>
 
-      <section class="section work" id="work">
-        <p class="section-label">02 / Selected work</p>
-        <div class="section-content">
-          <article class="project">
-            <p class="project-number">01</p>
-            <div>
-              <p class="project-type">Genome Research · 2025</p>
-              <h3>FocalSV: structural variant assembly and refinement</h3>
-              <p>A target-region method for assembling and refining structural variants from single-molecule long-read sequencing data.</p>
-            </div>
-            <span aria-hidden="true">•</span>
-          </article>
-          <article class="project">
-            <p class="project-number">02</p>
-            <div>
-              <p class="project-type">Nature Communications · 2024</p>
-              <h3>VolcanoSV: robust structural variant calling</h3>
-              <p>A method for accurate and robust structural-variant calling in diploid genomes using single-molecule long reads.</p>
-            </div>
-            <span aria-hidden="true">•</span>
-          </article>
-          <article class="project">
-            <p class="project-number">03</p>
-            <div>
-              <p class="project-type">BMC Genomics · 2025</p>
-              <h3>Large indel detection in phased assemblies</h3>
-              <p>Detection of large indels in region-based phased diploid assemblies generated from linked-read sequencing.</p>
-            </div>
-            <span aria-hidden="true">•</span>
-          </article>
-        </div>
-      </section>
+        <section id="awards">
+          <h2>Awards &amp; honors</h2>
+          <ul class="awards">
+            <li><span>2025</span> Provost’s Pathbreaking Discovery Award</li>
+            <li><span>2025</span> Vanderbilt Engineering Best Paper Award</li>
+            <li><span>2024, 2022</span> Graduate School Travel Grant</li>
+            <li><span>2021–present</span> Russell G. Hamilton Scholar</li>
+            <li><span>2021–present</span> University Graduate Fellow</li>
+          </ul>
+        </section>
 
-      <section class="section notes" id="notes">
-        <p class="section-label">03 / Highlights</p>
-        <div class="section-content notes-list">
-          <div><time datetime="2025">2025</time><span>Provost’s Pathbreaking Discovery Award</span><b>★</b></div>
-          <div><time datetime="2025">2025</time><span>Vanderbilt Engineering Best Paper Award</span><b>★</b></div>
-          <div><time datetime="2021">2021–present</time><span>Russell G. Hamilton Scholar &amp; University Graduate Fellow</span><b>★</b></div>
-        </div>
-      </section>
-
-      <section class="contact" id="contact">
-        <p class="section-label">04 / Contact</p>
-        <h2>Let’s talk<br>about <em>genomes.</em></h2>
-        <a class="email" href="mailto:can.luo@vanderbilt.edu">can.luo@vanderbilt.edu <span>↗</span></a>
-      </section>
-    </main>
-
-    <footer>
-      <span>© 2026 Can Luo</span>
-      <div><a href="https://github.com/volcano1998">GitHub</a><span>Nashville, TN</span></div>
-    </footer>
+        <footer>© 2026 Can Luo · Built with GitHub Pages</footer>
+      </main>
+    </div>
   </body>
 </html>
