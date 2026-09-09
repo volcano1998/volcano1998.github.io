@@ -1,15 +1,15 @@
 # volcano1998.github.io
 
-Personal website hosted with GitHub Pages.
+Personal academic website for Can Luo, built with the [AcademicPages](https://academicpages.github.io/) Jekyll theme (MIT-licensed) and organized after the referenced OliiverHu academic site.
 
-## Publish updates
+The primary content lives in `_pages/`; update the site identity and profile links in `_config.yml`. The public profile photograph is `images/can-luo.jpg`.
 
-After editing `index.html` or `styles.css`, publish with:
+To publish changes:
 
 ```bash
-git add index.html styles.css README.md
-git commit -m "Update personal site"
+git add .
+git commit -m "Update academic website"
 git push
 ```
 
-Your site will be available at https://volcano1998.github.io once GitHub Pages is enabled for the `main` branch in **Settings → Pages**.
+In GitHub, set **Settings → Pages → Build and deployment → Source** to **Deploy from a branch**, then select the `main` branch and `/ (root)`.

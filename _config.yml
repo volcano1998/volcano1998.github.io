@@ -1,0 +1,40 @@
+locale: "en-US"
+title: "Can Luo's homepage"
+name: "Can Luo"
+description: "PhD candidate in Biomedical Engineering at Vanderbilt University"
+url: "https://volcano1998.github.io"
+baseurl: ""
+repository: "volcano1998/volcano1998.github.io"
+remote_theme: "academicpages/academicpages.github.io"
+plugins:
+  - jekyll-remote-theme
+
+author:
+  name: "Can Luo"
+  avatar: "can-luo.jpg"
+  bio: "PhD candidate in Biomedical Engineering at Vanderbilt University"
+  location: "Nashville, TN"
+  email: "can.luo@vanderbilt.edu"
+  github: "volcano1998"
+
+include:
+  - _pages
+
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+markdown: kramdown
+kramdown:
+  input: GFM
