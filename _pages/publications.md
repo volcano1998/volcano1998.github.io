@@ -8,8 +8,6 @@ author_profile: true
 
 ---
 
-Selected workflow figures are reproduced from the linked open-access articles.
-
 ## 2026
 
 * **Can Luo**†, Yichen Henry Liu†, Han Liu, Zhenmiao Zhang, Lu Zhang, Brock A. Peters & Xin Maizie Zhou. *A little longer, a lot better: simulation-guided exploration of extended-length single-end barcoded reads for structural variant detection.* **[Bioinformatics Advances](https://pmc.ncbi.nlm.nih.gov/articles/PMC13105030/)**, 2026.
