@@ -1,17 +1,24 @@
 ---
 permalink: /
-title: "Can Luo's academic homepage"
+title: "Can Luo"
 excerpt: "About me"
 author_profile: true
 ---
 
-Welcome to my homepage.
+Welcome to my homepage!
 
-I am a postdoctoral researcher at the University of Washington, working with Prof. [Evan E. Eichler](https://en.wikipedia.org/wiki/Evan_E._Eichler). My research focuses on developing computational methods to detect and characterize genetic variation in complex genomes.
+I am a postdoctoral researcher at the University of Washington, working with Prof. [Evan E. Eichler](https://en.wikipedia.org/wiki/Evan_E._Eichler). Previously, I earned a Ph.D. in Biomedical Engineering at Vanderbilt University, advised by Prof. [Xin Maizie Zhou](https://maiziezhoulab.github.io/), as well as an M.S. in Data Science from Vanderbilt University and a B.S. in Chemistry from Fudan University.
 
-I work on structural variants and copy-number variation, particularly in cancer genomics. I use linked-read, long-read, and single-cell sequencing data to build algorithms that improve variant detection, reveal tumor heterogeneity, and support more precise diagnosis and treatment.
+My research focuses on developing high performance computational methods to detect and characterize complex genetic variation in human population. During my Ph.D., I built a series of computation tools, including 
+* VolcanoSV: a high performance structural variantion calling tools leverage long read sequencing and whole genome phased assembly
+* FocalSV: a fast and flexible local region focused structural variantion detection tool
+* CNVeil: highly efficient statistical framwork to infer haplotype resolved copy number from single cell DNA sequencing data
+* RegionINDEL: an efficient algorithm to quickly detect large insertion and deltion using linked read sequencing
+etc.
 
-I earned a Ph.D. in Biomedical Engineering at Vanderbilt University, advised by Prof. [Xin Maizie Zhou](https://maiziezhoulab.github.io/), as well as an M.S. in Data Science from Vanderbilt University and a B.S. in Chemistry from Fudan University. Outside research, I enjoy brush painting, sketching, and paper craft.
+Those tools leverage the power of various sequencing tochlogoy, such as linked-read, long-read, and single-cell sequencing data to improve variant detection, reveal tumor heterogeneity, and support more precise diagnosis and treatment. 
+
+Outside research, I enjoy brush painting, sketching, and paper craft.
 
 ### Research interests
 
