@@ -1,6 +1,6 @@
 # volcano1998.github.io
 
-Personal academic website for Can Luo, built with the [AcademicPages](https://academicpages.github.io/) Jekyll theme (MIT-licensed) and organized after the referenced OliiverHu academic site.
+Personal academic website for Can Luo, built with the [AcademicPages](https://academicpages.github.io/) Jekyll theme (MIT-licensed).
 
 The primary content lives in `_pages/`; update the site identity and profile links in `_config.yml`. The public profile photograph is `images/can-luo.jpg`.
 
