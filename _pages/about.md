@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Can Luo"
+title: "Can Luo's Home Page"
 excerpt: "About me"
 author_profile: true
 ---
