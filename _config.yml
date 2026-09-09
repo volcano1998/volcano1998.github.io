@@ -1,7 +1,7 @@
 locale: "en-US"
 title: "Can Luo's homepage"
 name: "Can Luo"
-description: "PhD candidate in Biomedical Engineering at Vanderbilt University"
+description: "Postdoctoral researcher at the University of Washington"
 url: "https://volcano1998.github.io"
 baseurl: ""
 repository: "volcano1998/volcano1998.github.io"
@@ -12,10 +12,12 @@ plugins:
 author:
   name: "Can Luo"
   avatar: "can-luo.jpg"
-  bio: "PhD candidate in Biomedical Engineering at Vanderbilt University"
-  location: "Nashville, TN"
+  bio: "Postdoctoral Researcher at the University of Washington"
+  location: "Seattle, WA"
   email: "can.luo@vanderbilt.edu"
   github: "volcano1998"
+  googlescholar: "https://scholar.google.com/citations?user=2oxA4e8AAAAJ&hl=en"
+  linkedin: "can-luo-935b11186"
 
 include:
   - _pages

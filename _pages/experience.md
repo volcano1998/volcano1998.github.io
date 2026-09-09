@@ -8,8 +8,8 @@ author_profile: true
 
 ### Vanderbilt University, Nashville, TN
 
-Ph.D. in Biomedical Engineering, Computational Genomics Track · Expected May 2026  
-GPA: 3.92 · Prof. Xin Maizie Zhou's laboratory
+Ph.D. in Biomedical Engineering, Computational Genomics Track · 2026
+GPA: 3.92 · Prof. [Xin Maizie Zhou](https://maiziezhoulab.github.io/)'s laboratory
 
 ### Vanderbilt University, Nashville, TN
 
@@ -21,6 +21,10 @@ GPA: 3.93
 B.S. in Chemistry · June 2019
 
 ## Research experience
+
+### Postdoctoral Researcher · University of Washington
+
+Conducting computational genomics research with Prof. [Evan E. Eichler](https://en.wikipedia.org/wiki/Evan_E._Eichler).
 
 ### Computational Genomics Researcher · Vanderbilt University
 
