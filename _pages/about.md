@@ -9,14 +9,29 @@ Welcome to my homepage!
 
 I am a postdoctoral researcher at the University of Washington, working with Prof. [Evan E. Eichler](https://en.wikipedia.org/wiki/Evan_E._Eichler). Previously, I earned a Ph.D. in Biomedical Engineering at Vanderbilt University, advised by Prof. [Xin Maizie Zhou](https://maiziezhoulab.github.io/), as well as an M.S. in Data Science from Vanderbilt University and a B.S. in Chemistry from Fudan University.
 
-My research focuses on developing high performance computational methods to detect and characterize complex genetic variation in human population. During my Ph.D., I built a series of computation tools, including 
-* VolcanoSV: a high performance structural variantion calling tools leverage long read sequencing and whole genome phased assembly
-* FocalSV: a fast and flexible local region focused structural variantion detection tool
-* CNVeil: highly efficient statistical framwork to infer haplotype resolved copy number from single cell DNA sequencing data
-* RegionINDEL: an efficient algorithm to quickly detect large insertion and deltion using linked read sequencing
-etc.
+My research focuses on developing high-performance computational methods to detect and characterize complex genetic variation in human populations. During my Ph.D., I developed the following tools:
 
-Those tools leverage the power of various sequencing tochlogoy, such as linked-read, long-read, and single-cell sequencing data to improve variant detection, reveal tumor heterogeneity, and support more precise diagnosis and treatment. 
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5rem; margin: 1.75rem 0 2.25rem;">
+  <a href="https://www.nature.com/articles/s41467-024-51282-0" style="display: flex; flex: 0 0 220px; align-items: center; justify-content: center; height: 180px;"><img src="/images/publications/volcanosv-figure-1.png" alt="VolcanoSV workflow" style="max-width: 220px; max-height: 180px; object-fit: contain; border: 1px solid #e5e5e5;"></a>
+  <div style="flex: 1 1 350px;"><strong><a href="https://www.nature.com/articles/s41467-024-51282-0">VolcanoSV</a></strong><br>A high-performance structural-variant calling tool that leverages long-read sequencing and whole-genome phased assembly.</div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5rem; margin: 1.75rem 0 2.25rem;">
+  <a href="https://genome.cshlp.org/content/35/10/2252" style="display: flex; flex: 0 0 220px; align-items: center; justify-content: center; height: 180px;"><img src="/images/publications/focalsv.jpg" alt="FocalSV workflow" style="max-width: 220px; max-height: 180px; object-fit: contain; border: 1px solid #e5e5e5;"></a>
+  <div style="flex: 1 1 350px;"><strong><a href="https://genome.cshlp.org/content/35/10/2252">FocalSV</a></strong><br>A fast, flexible tool for structural-variant detection and refinement in user-defined genomic regions.</div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5rem; margin: 1.75rem 0 2.25rem;">
+  <a href="https://www.biorxiv.org/content/10.1101/2024.02.21.581409v1" style="display: flex; flex: 0 0 220px; align-items: center; justify-content: center; height: 180px;"><img src="/images/publications/cnveil.png" alt="CNVeil workflow" style="max-width: 220px; max-height: 180px; object-fit: contain; border: 1px solid #e5e5e5;"></a>
+  <div style="flex: 1 1 350px;"><strong><a href="https://www.biorxiv.org/content/10.1101/2024.02.21.581409v1">CNVeil</a></strong><br>An efficient statistical framework for inferring haplotype-resolved copy number and tumor subclones from single-cell DNA sequencing data.</div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5rem; margin: 1.75rem 0 2.25rem;">
+  <a href="https://link.springer.com/article/10.1186/s12864-025-11398-z" style="display: flex; flex: 0 0 220px; align-items: center; justify-content: center; height: 180px;"><img src="/images/publications/regionindel.jpg" alt="RegionIndel workflow" style="max-width: 220px; max-height: 180px; object-fit: contain; border: 1px solid #e5e5e5;"></a>
+  <div style="flex: 1 1 350px;"><strong><a href="https://link.springer.com/article/10.1186/s12864-025-11398-z">RegionIndel</a></strong><br>An efficient algorithm for detecting large insertions and deletions from linked-read sequencing data.</div>
+</div>
+
+These tools leverage linked-read, long-read, and single-cell sequencing data to improve variant detection, reveal tumor heterogeneity, and support more precise diagnosis and treatment.
 
 Outside research, I enjoy brush painting, sketching, and paper craft.
 
